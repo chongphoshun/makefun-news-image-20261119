@@ -1,9 +1,10 @@
-# Sources — news-image-20261119
+# Sources — news-image-20261119 (rev2, 47 stories)
 
 All facts in the image were checked against reporting of 19 Nov 2026.
 Links below are the exact URLs returned by search; nothing was invented.
 Stories dated 18 Nov are events first reported on 19 Nov, which the
-competition counts as the day's news.
+competition counts as the day's news. Rev2: the ICJ verdict is now stated
+(verified 19 Nov); COP31 joins the grid; 5 new briefs added (see bottom).
 
 ## Leads
 
@@ -35,12 +36,17 @@ competition counts as the day's news.
 - https://www.cnn.com/2026/11/18/politics/hakeem-jeffries-house-democrats-leadership-elections
   (Full House vote 3 Jan 2027, needs 218; Mike Johnson still Speaker.)
 
-### 5. ICJ rules today on the Rohingya case (outcome NOT stated)
-- https://www.thenewsbooth.co.ke/article/myanmar-awaits-landmark-icj-ruling-in-rohingya-genocide-case
-- https://usnewspulse.com/world/world-court-to-rule-on-rohingya-genocide-case-against-myanmar-on-november-19
-  (Ruling read 19 Nov 10:00 The Hague / 08:00 GMT; Gambia filed Nov 2019;
-  third genocide ruling in ICJ history. No outcome is in the image
-  because the ruling came after it was drawn.)
+### 5. ICJ finds Myanmar guilty of genocide (verdict read 19 Nov 10:00 The Hague)
+- https://www.reuters.com/world/asia-pacific/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-2026-11-19/
+  (First time the World Court held a state responsible for genocide;
+  9–6 vote; ~10,000 Rohingya killed in 2017 clearance operations;
+  reparations ordered; ruling final, cannot be appealed.)
+- https://www.reuters.com/world/asia-pacific/reactions-top-un-court-finds-myanmar-guilty-genocide-against-rohingya-2026-11-19/
+- https://www.lemonde.fr/en/international/article/2026/11/20/rohingya-historic-international-court-of-justice-ruling-finds-myanmar-guilty-of-genocide_6784846_4.html
+- https://www.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk?cid=external-feeds_iluminar_meta
+  (Gambia filed Nov 2019; case ran 7 years; court found the "only
+  reasonable inference" was intent to destroy a substantial part of the
+  Rohingya in northern Rakhine State.)
 
 ### 6. Iran hits US bases in Kuwait and Bahrain (18 Nov)
 - https://www.sofx.com/kuwait-bahrain-report-iranian-attacks-after-u-s-strike-on-qeshm-island-missile-site/
@@ -80,11 +86,18 @@ competition counts as the day's news.
   (October hold 10–2 at 3.75–4.00%; dissenters Cook and Hammack wanted a
   25bp rise; "almost all" saw further rises as likely appropriate.)
 
-### 12. Nvidia board won't bring back Huang
-- https://www.reuters.com/technology/trump-says-he-referred-ex-nvidia-boss-huangs-situation-briefly-talk-with-xi-2026-11-19/
-- https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/
-  (Board decision announced 17 Nov; Huang resigned 12 Nov; Colette Kress
-  interim CEO; Trump raised it "briefly" with Xi.)
+### 12. COP31 draft drops fossil-fuel phaseout (19 Nov, Antalya)
+- https://news.un.org/en/story/2026/11/1168839
+  (Latest draft of the cover decision drops explicit references to
+  moving away from coal, oil and gas; pushes electrification — 35% of
+  final energy by 2035 — and triples adaptation finance; first COP to
+  acknowledge the 1.5°C goal will be overshot.)
+- https://carbonherald.com/cop31-draft-accord-drops-fossil-fuel-phaseout-language-in-favor-of-carbon-capture/
+  (Revised Antalya Accord released 19 Nov; CCUS target at least 500m
+  tonnes CO2/year by 2035.)
+- https://www.globalissues.org/news/2026/11/19/44640
+  (Draft released 19 Nov removes all direct fossil-fuel references and
+  roadmaps; $120bn adaptation-finance target eliminated.)
 
 ### 13. Voyager 1 reaches one light-day (18 Nov 05:16 ET; confirmed 19 Nov)
 - https://science.nasa.gov/blogs/voyager/2026/11/18/voyager-1-engineers-analyze-data-issue-ready-to-confirm-light-day/
@@ -106,7 +119,7 @@ competition counts as the day's news.
   Odisha evacuated ~50,000 people. The image says "nears" and "expected
   Friday" — it has not landed yet.)
 
-## Briefs (27)
+## Briefs (32)
 
 - Houthi missile threat to Riyadh: https://srnnews.com/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says/
 - US $2bn-plus Philippines loan package: https://www.appistos.gr/en/diethni.html
@@ -132,3 +145,26 @@ competition counts as the day's news.
 - Cameron Fens sues NCAA: https://www.thescore.com/ncaab/news/3659309
 - Microsoft–ByteDance talks (reported): https://simplelife.news/regions/tw/en/latest.html
 - World COPD Day, 19 Nov: https://srihayavadhana.com/newsmriti/headlines/
+- Nvidia board won't bring back Huang (now a brief; was grid #12 in v1):
+  https://www.reuters.com/technology/trump-says-he-referred-ex-nvidia-boss-huangs-situation-briefly-talk-with-xi-2026-11-19/
+  and https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/
+  (Board decision announced 17 Nov; Huang resigned 12 Nov; Colette Kress
+  interim CEO; Trump raised it "briefly" with Xi.)
+- Mongolia's president quits in railway graft scandal (parliament accepted
+  the resignation 19 Nov, 96 of 104 present):
+  https://www.plaindealerin.com/news/wire/mongolias-lawmakers-accept-the-presidents-resignation-following-corruption-accusations/article_77ee9a86-c061-5f0c-bd4c-47ecb5fdbb40.html
+  (AP: Khurelsukh Ukhnaa stepped down after accusations he benefited from
+  a railway project; allegations unproven, he denies wrongdoing.)
+- Somalia orders UAE envoy out in 72 hours (19 Nov):
+  https://www.reuters.com/world/middle-east/somalia-orders-uae-ambassador-leave-citing-invasion-2026-11-19/
+  (Somalia accused the UAE of sovereignty violations amounting to an
+  "invasion"; withdrew its own envoy from Abu Dhabi.)
+- Dutch embassy in Kyiv hit; Netherlands summons Russian ambassador (19 Nov):
+  https://www.reuters.com/world/netherlands-summons-russian-ambassador-kyiv-embassy-hit-2026-11-19/
+  (Projectile struck behind the Dutch embassy in Kyiv on 19 Nov; minor
+  damage; Dutch FM Tom Berendsen summoned Russia's ambassador.)
+- Lula nears finance minister pick (19 Nov):
+  https://kwsn.com/2026/11/19/brazils-lula-closing-in-on-finance-minister-pick-sources-say/
+  (Reuters: Lula close to naming his next finance minister; top
+  contenders Geraldo Alckmin and Rafael Fonteles; decision could come
+  next week; inauguration 5 Jan 2027.)

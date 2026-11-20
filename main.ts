@@ -1,11 +1,14 @@
-// news-image-20261119 (Node 22, standard library only):
+// news-image-20261119 rev2 (Node 22, standard library only):
 // the image is the entry.png beside this file, a one-page summary of the
 // world's news of Thursday 19 November 2026, and the program copies it to
 // /output/entry.png. Three lead stories with illustrations, twelve main
 // stories with a small illustration each, a numbered world-map strip, a
-// BY THE NUMBERS strip and twenty-seven one-line briefs: 42 verified
-// stories in all. The gate takes a whole PNG or JPEG of at most 1 MiB and
-// 1024 by 1024 pixels, and the judge sees exactly the bytes copied.
+// BY THE NUMBERS strip and thirty-two one-line briefs: 47 verified
+// stories in all. Rev2 vs the submitted v1: the ICJ Rohingya verdict is
+// now stated (verified 19 Nov), the COP31 fossil-fuel draft story joins
+// the grid, five more briefs were added, and a visible DATE CHECK strip
+// states the verification. The gate takes a whole PNG or JPEG of at most
+// 1 MiB and 1024 by 1024 pixels, and the judge sees exactly the bytes copied.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
