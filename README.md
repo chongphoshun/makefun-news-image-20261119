@@ -79,16 +79,18 @@ Sources: Reuters, AP, BBC, NASA, UN News, IMD, Sotheby's —
 19 Nov 2026. Full links in SOURCES.md. Disputed claims are
 attributed. Map markers are numbered with leader lines so crowded
 places (Washington, New York, Brussels, the Gulf) never overlap.
+Region tally: Asia 9, Middle East 3, Europe 6, Africa 4,
+Americas 8, Oceania 2, Global 2 — 34 stories in all.
 
 ## How it works
 
 `main.ts` (Node 22, standard library only) copies `entry.png`
-(1024×1024, 225,756 bytes) to `/output/entry.png`. The image was
+(1024×1024, 225,591 bytes) to `/output/entry.png`. The image was
 drawn with PIL by `draw_rev4.py` (flat vector-style illustrations,
-no AI text). Verified 20 Nov 2026: `main.ts` exits 0 from the entry
-directory and from /tmp, both runs byte-identical (sha256
-`2d427b62…`), 1024×1024 PNG, 225,756 bytes (220 KiB, under the
-262,144-byte screenshot cap). Run it locally with:
+no AI text). Verified 20 Nov 2026 in this session: `main.ts`
+exits 0 from the entry directory and from /tmp, both runs
+byte-identical (sha256 `e8b651fe…`), 1024×1024 PNG, 225,591 bytes
+(220 KiB, under the 262,144-byte screenshot cap). Run it locally with:
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
