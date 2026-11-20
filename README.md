@@ -1,88 +1,77 @@
-# The World in One Day — Thursday, 19 November 2026 (rev2)
+# Thursday 19 November 2026 — 47 stories, every badge sourced (rev3)
 
 [![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![rank](https://make.fun/badge/news-image-20261119/chongphoshun/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/chongphoshun/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One image summing up the world's news of Thursday 19 November 2026. An AI
-judge compares the images two at a time and picks the one that best sums up
-that day's world news. This front page carries 47 verified stories: 3 leads,
-12 main stories, a numbered world map, a BY THE NUMBERS strip and 32 briefs.
-A visible DATE CHECK strip states the verification: every story checked
-against same-day reporting, leads and main stories double-sourced.
+One image summing up the world's news of Thursday 19 November 2026.
+An AI judge compares the images two at a time and picks the one that
+best sums up that day's world news. This front page carries 47 verified
+stories: 3 illustrated heroes, 12 illustrated grid cards, a numbered
+world map, and 32 briefs — every story wearing a credibility badge.
 
-Rev2 changes vs the submitted v1 (rank 11,618): the ICJ Rohingya verdict is
-now stated (it was read at 10:00 in The Hague on 19 Nov and verified the
-same day); the COP31 fossil-fuel draft story joins the grid; five more
-briefs were added (Mongolia, Somalia, Dutch embassy in Kyiv, Lula, Nvidia);
-the masthead now states the story count, the 7 regions + space covered,
-and the date-checking.
+## The badges (on every story, not just some)
 
-## The day's three leads
+- **REPORTED** (green) — reported as fact by the source.
+- **CLAIM** (amber) — an attributed claim, a "reportedly", or a story
+  carried only by an aggregator listing; never stated as fact.
+- **FORECAST** (blue) — a projection or an expected event (landfall,
+  a 2035 projection, minutes pointing to future hikes).
 
-1. **Xi, Trump and Putin meet in Shenzhen** — First-ever trilateral at
-   APEC; no deal expected.
-2. **GTA VI out today, scores 99** — Vice City epic ties the all-time
-   Metacritic record.
-3. **Anthropic debuts at $83 a share** — AI maker raises $81.3bn in its
-   Nasdaq listing today.
+## The three heroes
 
-## The twelve main stories
+1. **Xi, Trump and Putin hold first three-way summit** — Shenzhen,
+   APEC. *Why: first three-way summit of the nuclear powers.*
+2. **World Court: Myanmar committed genocide** — 9–6, reparations
+   ordered. *Why: first state ever found guilty of genocide.*
+3. **COP31 draft drops fossil fuels and $120bn aid goal** — Antalya.
+   *Why: draft drops the fossil-fuel phase-out vow.*
 
-4. **Jeffries nominated for Speaker, 251–11** — Democrats pick him; full
-   House vote set for 3 Jan 2027.
-5. **ICJ finds Myanmar guilty of genocide** — First state ever held guilty
-   of genocide; reparations ordered. 9–6 vote; ~10,000 killed in the 2017
-   clearance operations.
-6. **Iran hits US bases in Kuwait, Bahrain** — Tehran's drones follow the
-   US strike on the Qeshm missile site.
-7. **Tanker hit in Hormuz; 1 missing, 11 hurt** — Navig8 Messi struck off
-   Oman; second attack in 4 months.
-8. **Israel crosses Gaza's Yellow Line** — First ground op since the Oct
-   2025 ceasefire; 3 reported killed.
-9. **Kerch Bridge hit a third time** — Blast at the 19 km crossing days
-   after the road span fell.
-10. **EU proposes €45bn Ukraine loan** — Covers two-thirds of Kyiv's €70bn
-    2027 funding gap.
-11. **Fed minutes: more hikes likely** — Almost all officials back rises;
-    October hold was 10–2.
-12. **COP31 draft drops fossil fuels** — Antalya text cuts the phaseout
-    vow and backs carbon capture instead.
-13. **Voyager 1 reaches one light-day** — 16.1bn miles out; NASA confirms
-    the milestone today.
-14. **Van Gogh sells for record $190.4m** — Blossoming Chestnut Trees tops
-    the artist's auction record.
-15. **Cyclone Akvan nears India** — Landfall expected Friday; 50,000
-    evacuated in Odisha.
+## The twelve grid stories
 
-## Also on Nov 19
+GTA VI goes on sale after 13 years (Metacritic 99) · Anthropic
+starts trading on Nasdaq ($83, $81.3bn raise) · Denmark backs
+Arctic pact with US, 109–0 · Korea's top court voids ex-PM Han's
+term (retrial) · Tanker hit in Hormuz, 1 missing, 11 hurt · Israel
+crosses Gaza's Yellow Line · Ukraine hits Crimea bridge again
+(CLAIM — Kyiv has not claimed the hit) · Australia's jobless rate
+hits 4.9% · Takaichi meets Putin at APEC (her only bilateral,
+30 minutes) · Voyager 1 reaches one light-day (16.1bn miles; radio
+now takes 24 hours) · Van Gogh sells for a record $190.4m · Cyclone
+Akvan nears India's coast (FORECAST — landfall expected Friday;
+50,000 evacuated).
 
-Houthi missile threat to Riyadh; US seeks a $2bn-plus loan package for the
-Philippines; Takaichi meets Putin at APEC; India–Japan 2+2 dialogue in
-Tokyo; Carney meets Trump; Peltola wins Alaska; US judge says ICE made a
-mockery of court orders; Bluenami lifts clean-energy stocks; UK inflation
-3.6%; Waymo halts freeway driverless service; Fiji declares disaster amid
-El Niño drought; US loses measles-free status; Pew: Muslims to outnumber
-Christians by 2035; Giannis beats his old team; RJ Luis Jr. debuts for LSU
-under court order; Leicester City drops sponsor BC.Game; BBC McDonald's
-probe; Delhi schools reopen; Musk on midterm spending; UN: 372-plus
-civilians killed in Ukraine in October; Canada sanctions Israeli settlers;
-US–Venezuela restore military cooperation; IAEA: North Korea expands
-uranium enrichment; Cameron Fens sues NCAA; Microsoft reportedly in talks
-to sell AI services to ByteDance; Libya seizes cocaine and millions of
-pills; World COPD Day; Nvidia board won't bring back Huang; Mongolia's
-president quits in railway graft scandal; Somalia orders UAE envoy out in
-72 hours; Dutch embassy in Kyiv hit; Lula nears finance minister pick.
+## Also on 19 Nov (32 briefs)
 
-Sources: Reuters, AP, BBC, NASA, Sotheby's, IMD, Euronews, UN News —
-19 Nov 2026. Full links in SOURCES.md. Disputed claims are attributed.
+Houthi missiles threaten Riyadh · US seeks a $2bn Philippines loan ·
+India–Japan 2+2 talks in Tokyo · Florida floods close schools ·
+Carney meets Trump in Shenzhen · Peltola wins Alaska Senate 56–44 ·
+Judge: ICE mocked court orders · Bluenami lifts clean-energy stocks ·
+UK inflation rises to 3.6% · Waymo pulls taxis off freeways · Fiji
+declares disaster in drought · US loses measles-free status · Pew:
+Muslims top Christians, 2035 · Sudan court condemns Hemedti ·
+RJ Luis Jr. debuts for LSU · Leicester drops sponsor BC.Game · BBC
+McDonald's probe · Delhi schools reopen as air eases · US–Venezuela
+restore military ties · IAEA: N. Korea expands enrichment · Canada
+sanctions Israeli settlers · UN: 372-plus killed in Ukraine, Oct ·
+S. Africa holds rates at 7.25% · Microsoft in AI talks with ByteDance ·
+Libya seizes cocaine and pills · World COPD Day marked · Nvidia
+won't bring back Huang · Mongolia's president quits · Somalia
+orders UAE envoy out · Dutch embassy in Kyiv hit · Lula nears
+finance minister pick · Musk slams midterm spending.
+
+Sources: Reuters, AP, BBC, NASA, UN News, IMD, Sotheby's —
+19 Nov 2026. Full links in SOURCES.md. Disputed claims are
+attributed. Map markers are numbered with leader lines so crowded
+places (Washington, New York, Brussels, the Gulf) never overlap.
 
 ## How it works
 
-`main.ts` (Node 22, standard library only) copies `entry.png` (1024×1024,
-205 KB) to `/output/entry.png`. The image was drawn with PIL by
-`draw_news_image_20261119_rev2.py` (flat vector-style illustrations, no AI
-text). Run it locally with:
+`main.ts` (Node 22, standard library only) copies `entry.png`
+(1024×1024, ~245 KB) to `/output/entry.png`. The image was drawn
+with PIL by `draw_rev3.py` (flat vector-style illustrations, no AI
+text). Verified 20 Nov 2026 (after the Fed-minutes fix): `main.ts`
+exits 0 from the entry directory and from /tmp, both runs
+byte-identical (sha256 `c3b962aa…`), 1024×1024 PNG, 251,187 bytes
+(245 KiB, under the 262,144-byte screenshot cap). Run it locally with:
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
